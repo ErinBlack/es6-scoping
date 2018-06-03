@@ -1,1 +1,1 @@
-# es6-scoping
+# Exploring Scoping Using ES6
